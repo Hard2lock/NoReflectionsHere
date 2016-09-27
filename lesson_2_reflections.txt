@@ -1,0 +1,14 @@
+what happens when you initislize a repository? Whi do you need this?
+answer: to create a hiden file called .git containing metadata and history of your repository.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+answer: It is like a waiting room before commiting and you can add file until you are ready to commit. 
+How can you use the staging area to make sure you have one commit per logical change?
+Answer: You can compare it to the commits to check what changes you made.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer: wen you want to experiment test new feathure and you don't waont to break the working branch.
+How do the diagrams help you visualize the branch structure?
+Answer: Easy keeping track of what commits are on the branch and wich are not.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: We have one version wich combines the features of the two branches.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: the advantige of manually is that you can pic what you want in the code and what you dont want.Autumaticly is easy and faster.
