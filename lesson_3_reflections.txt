@@ -1,2 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
 Answer: When you wont to share it with others. Or work in teams
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Answer: Forks are type of clones used when you want to work on someones project with a link to his project without changing his project but giving him a suggestions. Cloning some one project is when you teamwork. Branches help you experiment without changing the master branch. 
